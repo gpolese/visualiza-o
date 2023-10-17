@@ -1,3 +1,2 @@
-projetinho HTML/css do frontmentor
+![pprojeto](https://github.com/gpolese/visualiza-o/assets/130608882/41afc5ca-1fb7-4305-8f21-b622df7e84cb)
 
-Nesse projeto usei flexbox e não consegui deixar o site responsivo, aprenderei no proximo projeto e voltarei pra arrumar.
